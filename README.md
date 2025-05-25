@@ -60,4 +60,4 @@ C is fun
 PS C:\Users\iyobo\JS-Fundamentals> node 7-multi_c.js
 Missing number of occurrences
 PS C:\Users\iyobo\JS-Fundamentals> node 7-multi_c.js -3
-Missing number of occurrences
+PS C:\Users\iyobo\JS-Fundamentals> 
