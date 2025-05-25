@@ -1,1 +1,3 @@
-Add first JavaScript script
+const myVar = "JavaScript is amazing";
+console.log(myVar);
+
