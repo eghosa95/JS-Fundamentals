@@ -15,3 +15,9 @@ Argument found
 PS C:\Users\iyobo\JS-Fundamentals> node 2-arguments.js Best School 
 Arguments found
 PS C:\Users\iyobo\JS-Fundamentals> 
+
+PS C:\Users\iyobo\JS-Fundamentals> node 3-value_argument.js 
+No argument
+PS C:\Users\iyobo\JS-Fundamentals> node 3-value_argument.js  School
+School
+PS C:\Users\iyobo\JS-Fundamentals> 
